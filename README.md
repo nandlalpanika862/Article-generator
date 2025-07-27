@@ -1,1 +1,1 @@
-# Article-generator
+# Ai Article-generator
